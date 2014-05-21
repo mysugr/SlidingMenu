@@ -10,6 +10,8 @@ bin
 gen/
 release/
 release
+build/
+build
 gen
 .metadata/
 .metadata
